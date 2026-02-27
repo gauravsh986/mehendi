@@ -24,7 +24,7 @@ const Hero = () => {
           className="mb-6"
         >
           <p className="font-sans text-xs md:text-sm tracking-[0.3em] uppercase text-gold-light mb-4">
-            Premium Mehendi Artistry
+            Mehendi Mestro • Premium Mehendi Artistry
           </p>
           <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl font-semibold text-ivory leading-tight">
             Where Tradition Meets

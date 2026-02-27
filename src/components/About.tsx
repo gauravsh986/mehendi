@@ -21,7 +21,7 @@ const About = () => {
             <div className="relative overflow-hidden rounded-sm">
               <img
                 src={artistImage}
-                alt="Priya - Professional Mehendi Artist"
+                alt="Mehendi Mestro - Professional Mehendi Artist"
                 className="w-full aspect-[3/4] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/20 to-transparent" />
