@@ -1,4 +1,5 @@
 import { Instagram, Phone, MapPin, Heart } from "lucide-react";
+import logo from "@/assets/logo.png";
 
 const Footer = () => {
   return (
@@ -7,9 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-10 mb-10">
           {/* Brand */}
           <div>
-            <h3 className="font-serif text-2xl font-semibold text-ivory mb-3">
-              <span className="gold-text">Mehendi</span> by Priya
-            </h3>
+            <img src={logo} alt="Mehendi Mestro" className="h-16 w-auto mb-3 brightness-110" />
             <p className="font-sans text-sm leading-relaxed text-ivory/60">
               Crafting bespoke henna artistry for your most cherished celebrations. 
               Every design, a masterpiece.
