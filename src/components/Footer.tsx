@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <img src={logo} alt="Mehendi Mestro" className="h-16 w-auto mb-3 brightness-110" />
             <p className="font-sans text-sm leading-relaxed text-ivory/60">
-              Crafting bespoke henna artistry for your most cherished celebrations. 
+              Mehendi Mestro — Crafting bespoke henna artistry for your most cherished celebrations. 
               Every design, a masterpiece.
             </p>
           </div>
@@ -43,7 +43,7 @@ const Footer = () => {
                 <Phone size={14} /> +91 99999 99999
               </a>
               <a href="https://instagram.com" className="flex items-center gap-3 font-sans text-sm text-ivory/60 hover:text-ivory transition-colors">
-                <Instagram size={14} /> @mehendibypriya
+                <Instagram size={14} /> @mehendimestro
               </a>
               <p className="flex items-center gap-3 font-sans text-sm text-ivory/60">
                 <MapPin size={14} /> Mumbai, India
@@ -54,7 +54,7 @@ const Footer = () => {
 
         <div className="border-t border-ivory/10 pt-6 text-center">
           <p className="font-sans text-xs text-ivory/40 flex items-center justify-center gap-1">
-            © 2026 Mehendi by Priya. Made with <Heart size={12} className="text-primary" /> All rights reserved.
+            © 2026 Mehendi Mestro. Made with <Heart size={12} className="text-primary" /> All rights reserved.
           </p>
         </div>
       </div>

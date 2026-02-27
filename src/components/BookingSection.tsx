@@ -88,7 +88,7 @@ const BookingSection = () => {
               </div>
               <div>
                 <p className="font-sans text-sm font-medium text-foreground">Instagram DM</p>
-                <p className="font-sans text-xs text-muted-foreground">@mehendibypriya</p>
+                <p className="font-sans text-xs text-muted-foreground">@mehendimestro</p>
               </div>
             </a>
           </motion.div>
