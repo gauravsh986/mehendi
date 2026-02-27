@@ -35,8 +35,12 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
-          <a href="#home" className="flex items-center gap-2">
-            <img src={logo} alt="Mehendi Mestro" className="h-12 md:h-14 w-auto" />
+          <a href="#home" className="flex items-center gap-2 md:gap-3">
+            <img src={logo} alt="Mehendi Mestro" className="h-10 md:h-14 w-auto" />
+            <span className="font-serif text-base md:text-xl font-semibold tracking-wide">
+              <span className="gold-text">Mehendi</span>
+              <span className="text-foreground"> Mestro</span>
+            </span>
           </a>
 
           {/* Desktop Nav */}
